@@ -1,1 +1,1 @@
-# DSAI-Project
+# StudentPerformancePrediction-ML
